@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "MERN Jobs",
+    "description": "This a Laravel Project. Users of this website can post MERN Stack jobs or Projects for potential job seekers to apply",
+    "imageUrl": "/marketing.svg"
+  },
+  {
+    "id": 2,
+    "title": "Housemarketplace",
+    "description": "This is a Real Estate website where buyers and sellers meet to conduct business for absolutely no fee.",
+    "imageUrl": "/undraw_house_searching_re_stk8.svg"
+  },
+    {
+    "id": 2,
+    "title": "Feedback App",
+    "description": "This is a fully responsive front-end React JavaScript Feedback App. With this app customers can send feedback about a product or service",
+    "imageUrl": "/Target audience _Two Color.svg"
+  }
+]
