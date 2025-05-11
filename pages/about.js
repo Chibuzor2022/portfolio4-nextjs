@@ -1,13 +1,4 @@
-// export default function About() {
-// 	return (
-// 		<section className="text-center py-10">
-// 			<h1 className="text-4xl font-semibold text-gray-800 mb-4">About Me</h1>
-// 			<p className="text-lg text-gray-600 max-w-xl mx-auto">
-// 				Passionate developer who loves building with React and Next.js.
-// 			</p>
-// 		</section>
-// 	);
-// }
+
 
 export default function About() {
 	return (
